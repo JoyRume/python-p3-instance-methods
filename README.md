@@ -99,7 +99,7 @@ run `pytest -x`. Follow along below to get the first few tests for the `Dog`
 class to pass. Once you have those passing, you will complete the remaining
 tasks on your own.
 
-How do we add our own methods to our classes? In our Dog example, can we teach
+How do we add our own methods to our classes? In our Dog example, can we tepipenv ach
 our Dog a new trick? Can we teach our Dog to bark for example?
 
 We can. We're used to defining functions already with the `def` keyword. If we
